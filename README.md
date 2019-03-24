@@ -134,9 +134,7 @@ align-content: center;
   <br><div id="img-caption">
  Heavyweight boxer Muhammad Ali makes a point during a news conference that he conducts from inside the ring in Atlanta, Ga., in this Oct. 24, 1970, file photo.
     </div>
- 
-     <br>
-     <br>
+
   <div id="tribute-info">
     <center><h2> The Legend known as Muhammad Ali</h2></center>
     <article>
@@ -154,10 +152,10 @@ Outside the ring, Ali attained success as a musician, where he received two Gram
     </article>
     </div>
    
-     <center><footer>
+  <footer>
          <p><a href="https://en.wikipedia.org/wiki/Muhammad_Ali" target="_blank"> To see more information about Muhammad Ali, please click on the link here</a>.</p>
-         </footer>
-     </center>
+     </footer>
+     
      
    
 </body>
